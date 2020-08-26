@@ -1,0 +1,6 @@
+killall screen
+while(true) do
+rm -fr ../.telegram-cli
+screen ./NARUTO.sh
+done
+echo -e "NARUTO IS RUN BOT"
